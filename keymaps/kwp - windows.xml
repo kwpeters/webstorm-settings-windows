@@ -1,4 +1,7 @@
 <keymap version="1" name="kwp - windows" parent="$default">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="j" />
+  </action>
   <action id="CheckinProject" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl slash" />
