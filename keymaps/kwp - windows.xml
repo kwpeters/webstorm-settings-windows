@@ -1,4 +1,8 @@
 <keymap version="1" name="kwp - windows" parent="$default">
+  <action id="CollapseSelection">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" second-keystroke="f" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
