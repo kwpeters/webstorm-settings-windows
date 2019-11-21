@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\Program Files\Git\usr\bin\bash.exe -i -l" />
+    <option name="myShellPath" value="&quot;C:\Program Files\Git\usr\bin\bash.exe&quot; -i -login" />
   </component>
 </application>
